@@ -59,9 +59,6 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/V1ntag3/V1ntag3/output/snake.svg" alt="Snake animation" />
-
-###
 
 <div align="center">
   <img src="https://profile-counter.glitch.me/V1ntag3/count.svg?"  />
