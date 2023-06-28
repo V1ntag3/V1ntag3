@@ -15,7 +15,8 @@
 ###
 
 <h2 align="left">My portfolio</h2>
-<a href="curious-phoenix-ed69f1.netlify.app">curious-phoenix-ed69f1.netlify.app<a/>
+
+O site está hospedado em: https://curious-phoenix-ed69f1.netlify.app
 
 ###
 
