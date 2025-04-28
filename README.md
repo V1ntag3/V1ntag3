@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Creating bugs since 2020 (rsrsrs)<br>📚 I'm currently focusing on learning React Native</p>
+<p align="left">📚 I'm currently focusing on learning React Native</p>
 
 ###
 
